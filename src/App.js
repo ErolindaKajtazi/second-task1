@@ -33,6 +33,8 @@ function App() {
           culpa qui officia deserunt mollit anim id est laborum.
         </p>
       </TabPanel>
+
+      <TabPanel></TabPanel>
     </Tabs>
   );
 }
